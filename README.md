@@ -1,10 +1,8 @@
 # This project is UNMAINTAINED because of the GDPR. 
 
-Cookie Consent Module for Prestashop 1.6 and under.
+![logo module](https://github.com/FantasiaMoon/PS-CookieConsent/blob/master/logo.png) Cookie Consent Module for Prestashop 1.6 and under.
 
-== Description ==
-
-**WP/CC Cookie Consent**
+**PS Cookie Consent**
 
 Prestashop unofficial Cookie Consent Module.
 
@@ -28,7 +26,7 @@ Just 20k when minified, and you don't need JQuery or anything else.
 
 **Contribute**
 
-Contributing code is both an important and effective way to improve the **CC Cookie Consent** project and its capabilities.
+Contributing code is both an important and effective way to improve the **Cookie Consent** project and its capabilities.
 
 You can fork the plugin or [open a new issue / feature request](https://github.com/FantasiaMoon/PS-CookieConsent/issues).
 
