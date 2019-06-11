@@ -8,7 +8,7 @@ Cookie Consent Module for Prestashop 1.6 and under.
 
 Prestashop unofficial Cookie Consent Module.
 
-It is designed to help you comply with the EU Cookie Law and not make you want to kill yourself in the process. So we made it fast, free, and relatively painless.
+It is designed to help you comply with the EU Cookie Law and not make you want to kill yourself in the process. So I made it fast, free, and relatively painless.
 Developed by Badr TOUNZI.
 
 **Why required this plugin for my site?**
@@ -19,17 +19,18 @@ More information please read this: [EU Cookies Law](http://ec.europa.eu/ipg/basi
 **Why Cookie Consent?**
 
 *Free & open source*
+
 You're forever free to copy, modify and even sell Cookie Consent.
 
 *Lightweight*
+
 Just 20k when minified, and you don't need JQuery or anything else.
 
 **Contribute**
 
 Contributing code is both an important and effective way to improve the **CC Cookie Consent** project and its capabilities.
 
-If you would like contribute **[go to the official Github repo](https://github.com/progcode/WPCookieConsent)**. 
-You can fork the plugin or [open a new issue / feature request](https://github.com/progcode/WPCookieConsent/issues).
+You can fork the plugin or [open a new issue / feature request](https://github.com/FantasiaMoon/PS-CookieConsent/issues).
 
 ---------------------------------------------------------------------------------------------------------------------
 
