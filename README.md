@@ -22,7 +22,7 @@ You're forever free to copy, modify and even sell Cookie Consent.
 
 *Lightweight*
 
-Just 20k when minified, and you don't need JQuery or anything else.
+Just 19k when minified, and you don't need JQuery or anything else.
 
 **Contribute**
 
