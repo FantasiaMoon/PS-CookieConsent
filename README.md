@@ -1,6 +1,6 @@
 # This project is UNMAINTAINED because of the GDPR. 
 
-![logo module](https://github.com/FantasiaMoon/PS-CookieConsent/blob/master/logo.png) Cookie Consent Module for Prestashop 1.6 and under.
+![logo module](https://github.com/FantasiaMoon/PS-CookieConsent/blob/master/logo.png) Cookie Consent Module for Prestashop 1.5.x/1.6.x/1.7.x.
 
 **PS Cookie Consent**
 
