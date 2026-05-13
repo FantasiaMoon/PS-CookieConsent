@@ -33,4 +33,4 @@ You can fork the plugin or [open a new issue / feature request](https://github.c
 ---------------------------------------------------------------------------------------------------------------------
 
 Project cross-browser compatibility supported by [BrowserStack](https://browserstack.com)       
-![browserstack](https://boostio.fr/assets/images/browserstack.png)
+![browserstack](https://browserstack.wpenginepowered.com/wp-content/themes/browserstack/img/bstack-logo-global.svg)
